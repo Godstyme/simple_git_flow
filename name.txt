@@ -5,4 +5,7 @@ Address
 Playing and sleeping :)
 
 Address
+School:
+Course
+Program
 
